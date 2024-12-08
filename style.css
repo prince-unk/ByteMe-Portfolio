@@ -1,0 +1,46 @@
+/* Custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Update Navbar and Header color */
+.bg-custom {
+    background-color: #20B2AA !important; /* Light turquoise color */
+}
+
+/* Logo Styling */
+header .logo {
+    width: 100px;
+}
+
+/* Service icon */
+.service-icon {
+    width: 80px;
+    margin-bottom: 15px;
+}
+
+/* Section titles */
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+/* Button color */
+.btn-primary {
+    background-color: #20B2AA !important;
+    border-color: #20B2AA !important;
+}
+
+/* Navbar Links */
+.navbar-nav .nav-link {
+    color: #ffffff !important; /* White text for contrast */
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333;
+}
+
+footer p {
+    color: #fff;
+}
